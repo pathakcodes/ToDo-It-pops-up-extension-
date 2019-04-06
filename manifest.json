@@ -1,0 +1,16 @@
+{
+    "manifest_version" : 2,
+    "name": "ToDo" ,
+    "version": "1.0",
+    "description": "I help to plan your day",
+    "icons" :{
+        "128":"1.png",
+        "48" : "1.png",
+        "16" : "1.png"
+
+    },
+    "browser_action" :{
+        "default_icon":"1.png",
+        "default_popup": "index.html"
+    }
+}
