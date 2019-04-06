@@ -138,7 +138,6 @@ function show() {
 
         if(check[i])
         {
-            console.log(i+' '+check[i])
         checkbox.checked = true ;
         }
         checkbox.setAttribute('id', 'check'); //to set id 

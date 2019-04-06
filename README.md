@@ -6,7 +6,7 @@ The TODO extension is here , it will help you manage your task without any hassl
 The extension will help you manage your day .
 1. Simply add your TODOs .
 2. Mark and Unmark them done.
-3.Delete the done TODOs
+4. Delete the done TODOs
 3. Todos are saved even if you poweroff.
 
 There a "coffee cup gif" on top , click it to contribute and support developer .
