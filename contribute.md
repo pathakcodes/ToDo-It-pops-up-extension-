@@ -1,8 +1,9 @@
 # Have a cup of coffee for Developer
 
-###PayPal
+### PayPal
 Coming soon.
-##Email
+
+## Email
 shivampathak339@gmail.com
 
 ## Contribution
