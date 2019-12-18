@@ -9,7 +9,7 @@ The extension will help you manage your day .
 4. Delete the done TODOs
 3. Todos are saved even if you poweroff.
 
-There a "coffee cup gif" on top , click it to contribute and support developer .
+There's a "coffee cup gif" on top , click it to contribute and support developer .
 How about writing your app experience by visiting my page.
 
 
